@@ -125,9 +125,10 @@ This project was developed as part of training and assignments provided by **Inn
 
 <img width="1216" height="553" alt="Image" src="https://github.com/user-attachments/assets/fb757432-5391-4bb6-8d34-f3b9e906f577" />
 
-<img width="1203" height="490" alt="Image" src="https://github.com/user-attachments/assets/c8f161f7-8086-45d3-991d-10a4c617c8c5" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/e4163f16-cc35-4e55-bf4b-55703ab97192" />
 
-<img width="1203" height="519" alt="Image" src="https://github.com/user-attachments/assets/254b2d2c-d9de-4676-bb16-a280e3443437" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/b71d7028-131c-4101-8305-1fee25e7ee17" />
+
 
 ---
 
